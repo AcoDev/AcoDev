@@ -72,5 +72,10 @@ Here are some ideas to get you started:
 
 ![AcoDev's github stats](https://github-readme-stats.vercel.app/api?username=AcoDev&show_icons=true&theme=tokyonight)
 
+<br />
+<br />
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AcoDev&show_icons=true&theme=tokyonight)
+
 [website]: https://acostadev.xyz
 [twitter]: https://twitter.com/ItsAcoDev
